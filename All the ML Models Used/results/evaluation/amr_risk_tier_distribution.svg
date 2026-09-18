@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400" style="background:#ffffff;font-family:Arial,sans-serif;">
+<text x="350" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">AMR Risk Tier Distribution Across Surveillance Records</text>
+<rect x="90" y="100.0" width="90" height="220.0" rx="4" fill="#10b981"/>
+<text x="135" y="92.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e293b">5787 (83.1%)</text>
+<text x="135" y="345" text-anchor="middle" font-size="12" fill="#334155">Low Risk</text>
+<rect x="230" y="275.4" width="90" height="44.6" rx="4" fill="#f59e0b"/>
+<text x="275" y="267.4" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e293b">1173 (16.9%)</text>
+<text x="275" y="345" text-anchor="middle" font-size="12" fill="#334155">Moderate Risk</text>
+<rect x="370" y="320.0" width="90" height="0.0" rx="4" fill="#f97316"/>
+<text x="415" y="312.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e293b">0 (0.0%)</text>
+<text x="415" y="345" text-anchor="middle" font-size="12" fill="#334155">High Risk</text>
+<rect x="510" y="320.0" width="90" height="0.0" rx="4" fill="#ef4444"/>
+<text x="555" y="312.0" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e293b">0 (0.0%)</text>
+<text x="555" y="345" text-anchor="middle" font-size="12" fill="#334155">Critical Alert</text>
+</svg>

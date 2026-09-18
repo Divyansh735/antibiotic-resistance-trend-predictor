@@ -1,0 +1,5 @@
+Scenario_ID,Scenario_Name,Description,Baseline_Risk,Simulated_Risk,Risk_Score_Delta,Baseline_Resistance,Simulated_Resistance,Resistance_Delta_Pct_Points,Baseline_Anomaly_Pct,Simulated_Anomaly_Pct,Anomaly_Delta_Pct
+Scenario_1_Comb_30,30% Reduction in Combination Antibiotic Prescribing,"Restricts multi-drug irrational combinations (e.g. Amoxicillin-Clavulanate, Cotrimoxazole) by 30%.",24.9,25.66,0.75,19.36,19.28,-0.08,8.0,14.94,6.94
+Scenario_2_Comb_50,50% Reduction in Combination Antibiotic Prescribing,Strict guideline enforcement cutting irrational combination therapy in half.,24.9,25.28,0.38,19.36,19.25,-0.11,8.0,19.27,11.26
+Scenario_3_Reserve_25,25% Restriction on Broad-Spectrum & Reserve Drugs,Limits empirical use of Carbapenems (Meropenem) and 3rd-Gen Cephalosporins (Ceftriaxone).,24.9,25.18,0.28,19.36,19.35,-0.01,8.0,8.25,0.24
+Scenario_4_Comprehensive,Comprehensive Antimicrobial Stewardship Policy (Combinations + Reserve + 20% Volume Cap),"Combined intervention: -40% combinations, -30% reserve classes, and -20% overall consumption volume.",24.9,26.56,1.66,19.36,19.23,-0.13,8.0,22.07,14.07

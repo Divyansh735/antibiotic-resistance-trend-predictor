@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="450" style="background:#ffffff;font-family:Arial,sans-serif;">
+<text x="350" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">Top Influential Features Driving Resistance Prediction</text>
+<text x="210" y="81" text-anchor="end" font-size="11" fill="#334155">Rolling_3M_Resistance</text>
+<rect x="220" y="68" width="380.0" height="18" rx="3" fill="#1d4ed8"/>
+<text x="605.0" y="81" font-size="11" fill="#0f172a" font-weight="bold">0.382</text>
+<text x="210" y="113" text-anchor="end" font-size="11" fill="#334155">Lag1_Resistance_Rate</text>
+<rect x="220" y="100" width="236.1" height="18" rx="3" fill="#1d4ed8"/>
+<text x="461.1" y="113" font-size="11" fill="#0f172a" font-weight="bold">0.237</text>
+<text x="210" y="145" text-anchor="end" font-size="11" fill="#334155">Lag2_Resistance_Rate</text>
+<rect x="220" y="132" width="234.8" height="18" rx="3" fill="#1d4ed8"/>
+<text x="459.8" y="145" font-size="11" fill="#0f172a" font-weight="bold">0.236</text>
+<text x="210" y="177" text-anchor="end" font-size="11" fill="#334155">Month_Number</text>
+<rect x="220" y="164" width="22.8" height="18" rx="3" fill="#1d4ed8"/>
+<text x="247.8" y="177" font-size="11" fill="#0f172a" font-weight="bold">0.023</text>
+<text x="210" y="209" text-anchor="end" font-size="11" fill="#334155">DDD_per_1000_per_day</text>
+<rect x="220" y="196" width="17.0" height="18" rx="3" fill="#1d4ed8"/>
+<text x="242.0" y="209" font-size="11" fill="#0f172a" font-weight="bold">0.017</text>
+<text x="210" y="241" text-anchor="end" font-size="11" fill="#334155">Combination_Irrationality_Index_Percent</text>
+<rect x="220" y="228" width="13.7" height="18" rx="3" fill="#1d4ed8"/>
+<text x="238.7" y="241" font-size="11" fill="#0f172a" font-weight="bold">0.014</text>
+<text x="210" y="273" text-anchor="end" font-size="11" fill="#334155">Antibiotic_Class_Shift_Percent</text>
+<rect x="220" y="260" width="10.4" height="18" rx="3" fill="#1d4ed8"/>
+<text x="235.4" y="273" font-size="11" fill="#0f172a" font-weight="bold">0.010</text>
+<text x="210" y="305" text-anchor="end" font-size="11" fill="#334155">Total_Monthly_DDD</text>
+<rect x="220" y="292" width="8.9" height="18" rx="3" fill="#1d4ed8"/>
+<text x="233.9" y="305" font-size="11" fill="#0f172a" font-weight="bold">0.009</text>
+<text x="210" y="337" text-anchor="end" font-size="11" fill="#334155">Quarter</text>
+<rect x="220" y="324" width="7.6" height="18" rx="3" fill="#1d4ed8"/>
+<text x="232.6" y="337" font-size="11" fill="#0f172a" font-weight="bold">0.008</text>
+<text x="210" y="369" text-anchor="end" font-size="11" fill="#334155">Latitude</text>
+<rect x="220" y="356" width="6.3" height="18" rx="3" fill="#1d4ed8"/>
+<text x="231.3" y="369" font-size="11" fill="#0f172a" font-weight="bold">0.006</text>
+</svg>
